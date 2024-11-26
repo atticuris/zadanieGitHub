@@ -12,7 +12,6 @@ int main() {
         return 1;
     }
 
-    cout << "Podana liczba to: " << liczba << endl;
     return 0;
 }
 
